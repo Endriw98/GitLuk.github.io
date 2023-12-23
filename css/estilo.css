@@ -7,7 +7,7 @@ body{
 
 #principal{
     position: fixed;
-    top: 50px;
+    top: 100px;
     width: 720px;
     height: auto;
     display: flex;
