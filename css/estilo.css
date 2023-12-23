@@ -1,0 +1,67 @@
+body{
+    height: auto;
+}
+
+#principal{
+    width: 720px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(131, 85, 0);
+    margin: 0 auto;
+    box-shadow: 0px 0px 10px black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#Titulo{
+    width: 700px;
+    height: auto;
+    margin-left: 10px;
+    background-color: rgba(57, 57, 60, 0.747);
+    float: left;
+    border-radius: 0px 0px 10px 10px;
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#p{
+    width: 600px;
+    height: auto;
+    float: left;
+    background-color: white;
+    color: rgb(56, 56, 56);
+    margin-left: 10px;
+   
+}
+p{
+    text-align: justify;
+    font-size: 30px;
+    font-family: fantasy;
+    color: darkmagenta;
+    padding: 50px;
+    
+}
+button{
+    width: 120px;
+    height: 40px;
+    display: block;
+    float: left;
+    margin-left:400px;
+    font-size: 20px;
+    font-family: fantasy, bold;
+    border-radius: 5px 5px 5px 5px;
+    float: left;
+}
+#img{
+    width: 97%;
+    height: 710px;
+    margin: 10px;
+    float: left;
+    background-size: cover;
+    visibility: hidden;
+    position: fixed;
+}
