@@ -14,10 +14,9 @@ body{
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 20px;
+    margin-top: 60px;
 }
-.principal{
-    margin-top: 50px;
-}
+
 #Titulo{
     width: 700px;
     height: auto;
