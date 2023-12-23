@@ -2,6 +2,7 @@ body{
     height: auto;
     background-image: url("../img/bg.jpg");
     background-size: contain;
+    background-repeat: no-repeat;
 }
 
 #principal{
