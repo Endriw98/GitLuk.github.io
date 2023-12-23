@@ -2,7 +2,6 @@ body{
     height: auto;
     background-image: url("../img/bg.jpg");
     background-size: cover;
-    padding-top: 600px;
 }
 
 #principal{
@@ -16,6 +15,9 @@ body{
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 20px;
+}
+.principal{
+    margin-top: 200px;
 }
 #Titulo{
     width: 700px;
