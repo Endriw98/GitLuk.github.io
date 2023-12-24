@@ -8,7 +8,7 @@ body{
 #principal{
     position: fixed;
     top: 100px;
-    width: 720px;
+    width: 100%;
     height: auto;
     display: flex;
     flex-direction: column;
